@@ -14,7 +14,7 @@
 
 <br/>
 
-[![Asset Store](https://img.shields.io/badge/🛒%20Buy%20on%20Unity%20Asset%20Store-$19.99-orange?style=for-the-badge)]([https://assetstore.unity.com](https://assetstore.unity.com/packages/slug/367406))
+[![Asset Store](https://img.shields.io/badge/🛒%20Buy%20on%20Unity%20Asset%20Store-$19.99-orange?style=for-the-badge)](https://assetstore.unity.com/packages/slug/367406)
 
 <br/>
 
@@ -153,7 +153,7 @@ Assets/FPSKit/
 
 <div align="center">
 
-[![Buy on Unity Asset Store](https://img.shields.io/badge/🛒%20Buy%20Now%20—%20Unity%20Asset%20Store-$19.99-orange?style=for-the-badge)](https://assetstore.unity.com)
+[![Buy on Unity Asset Store](https://img.shields.io/badge/🛒%20Buy%20Now%20—%20Unity%20Asset%20Store-$19.99-orange?style=for-the-badge)](https://assetstore.unity.com/packages/slug/367406)
 
 </div>
 
