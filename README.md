@@ -14,7 +14,7 @@
 
 <br/>
 
-[![Asset Store](https://img.shields.io/badge/🛒%20Buy%20on%20Unity%20Asset%20Store-$24.99-orange?style=for-the-badge)](https://assetstore.unity.com)
+[![Asset Store](https://img.shields.io/badge/🛒%20Buy%20on%20Unity%20Asset%20Store-$19.99-orange?style=for-the-badge)]([https://assetstore.unity.com](https://assetstore.unity.com/packages/slug/367406))
 
 <br/>
 
