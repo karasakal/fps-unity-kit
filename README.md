@@ -7,7 +7,7 @@
 
 <br/><br/>
 
-# 🎮 FPS Kit
+# 🎮 FPS Pro Kit
 ### Professional First-Person Shooter System for Unity
 
 **Plug-and-play FPS framework. No third-party dependencies. One click setup.**
