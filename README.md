@@ -153,7 +153,7 @@ Assets/FPSKit/
 
 <div align="center">
 
-[![Buy on Unity Asset Store](https://img.shields.io/badge/🛒%20Buy%20Now%20—%20Unity%20Asset%20Store-$24.99-orange?style=for-the-badge)](https://assetstore.unity.com)
+[![Buy on Unity Asset Store](https://img.shields.io/badge/🛒%20Buy%20Now%20—%20Unity%20Asset%20Store-$19.99-orange?style=for-the-badge)](https://assetstore.unity.com)
 
 </div>
 
@@ -163,7 +163,6 @@ Assets/FPSKit/
 
 | Channel | Link |
 |---|---|
-| 📧 Email | your-email@domain.com |
 | 💬 Unity Forum | unity.com/community |
 | 🐛 Bug Reports | [Open an Issue](../../issues) |
 | 📖 Documentation | Included in the package |
